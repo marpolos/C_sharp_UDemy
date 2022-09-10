@@ -1,0 +1,15 @@
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/bin/Debug/net6.0/logic
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/bin/Debug/net6.0/logic.deps.json
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/bin/Debug/net6.0/logic.runtimeconfig.json
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/bin/Debug/net6.0/logic.dll
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/bin/Debug/net6.0/logic.pdb
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.csproj.AssemblyReference.cache
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.AssemblyInfoInputs.cache
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.AssemblyInfo.cs
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.csproj.CoreCompileInputs.cache
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.dll
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/refint/logic.dll
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.pdb
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/logic.genruntimeconfig.cache
+/home/marcelle/repository/C_sharp_UDemy/BL-1-primeiros-passos/logic/obj/Debug/net6.0/ref/logic.dll

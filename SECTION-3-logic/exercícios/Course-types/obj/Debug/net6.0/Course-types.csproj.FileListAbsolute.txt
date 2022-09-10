@@ -1,0 +1,15 @@
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/bin/Debug/net6.0/Course-types
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/bin/Debug/net6.0/Course-types.deps.json
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/bin/Debug/net6.0/Course-types.runtimeconfig.json
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/bin/Debug/net6.0/Course-types.dll
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/bin/Debug/net6.0/Course-types.pdb
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.csproj.AssemblyReference.cache
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.AssemblyInfoInputs.cache
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.AssemblyInfo.cs
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.csproj.CoreCompileInputs.cache
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.dll
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/refint/Course-types.dll
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.pdb
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/Course-types.genruntimeconfig.cache
+/home/marcelle/repository/C_sharp_UDemy/SECTION-3-logic/exercícios/Course-types/obj/Debug/net6.0/ref/Course-types.dll
