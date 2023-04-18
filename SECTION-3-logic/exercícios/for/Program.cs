@@ -1,12 +1,14 @@
-﻿namespace exercicios;
+﻿namespace exercicios.repeticao;
 
 public class ExercicioFor
 {
     public static void Main()
     {
-        SumNumbers();
+        //SumNumbers();
+        // new CalculaDivisores();
+        //Lines.Leitor();
+        Impares.Leitor();
     }
-
     public static void SumNumbers()
     {
         Console.Write("Quandos números inteiros você vai digitar? ");
@@ -16,7 +18,7 @@ public class ExercicioFor
 
         for (int i = 1; i <= totalNumber; i++)
         {
-            Console.Write($"Digite o #{i}: ");
+            Console.Write("Digite o #{0}: ", i);
             int n = Int32.Parse(Console.ReadLine());
             numbers.Add(n);
             sum += n;
